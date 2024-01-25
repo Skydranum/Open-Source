@@ -23,7 +23,7 @@ login_file_path = os.path.join(datapath, "login.txt")
 
 # Connect to the MySQL database
 mydb = mysql.connector.connect(
-    host="estaq.eng.br",
+    host="X",
     user="X",
     password="X",
     database="X",
